@@ -1,18 +1,22 @@
 # Bouncious
 
-**Bouncious** is a puzzle game where you place blocks to guide a ball to its goal. It’s simple at first, but then you have to think hard!
+**Bouncious** is a puzzle game where you place blocks to guide a ball to its goal. It starts simple — then gets tricky.
 
-## 🎮 How to download
+## 🎮 How to Download & Play
 
-1. Download the ZIP folder.
-2. Unzip.
-3. Run `Bouncious.exe`.
-4. Choose your preferred resolution:
+1. [Download the ZIP from the latest release](https://github.com/Mohammed-Alghanem/Bouncious/releases/tag/v1.0)
+2. Unzip the folder
+3. Open the `bouncious build` folder
+4. Run `Bouncious.exe`
+5. Choose your preferred resolution:
 
-![image](https://github.com/user-attachments/assets/43e0b94f-6b4c-4b95-96d5-82752af405ab)
+   ![Resolution Selector](https://github.com/user-attachments/assets/43e0b94f-6b4c-4b95-96d5-82752af405ab)
 
-5. Click Play!
-
+6. Click **Play!**
 ## 🖥 Requirements
 
 - Windows 10 or later
+
+## 💬 Notes
+
+This is my first game — feedback and ideas are welcome!
